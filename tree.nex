@@ -1,0 +1,95 @@
+#NEXUS
+[R-package APE, Thu Apr 14 00:27:46 2022]
+
+BEGIN TAXA;
+	DIMENSIONS NTAX = 41;
+	TAXLABELS
+		Lesothosaurus_diagnosticus
+		Plateosaurus_engelhardti
+		Herrerasaurus_ischigualastensis
+		Eoraptor_lunensis
+		Coelophysis_bauri
+		Coelophysis_rhodesiensis
+		Zupaysaurus_rougieri
+		Ceratosaurus_nasicornis
+		Majungasaurus_crenatissimus
+		Carnotaurus_sastrei
+		Monolophosaurus_jiangi
+		Spinosaurus_aegyptiacus
+		Baryonyx_walkeri
+		Sinraptor_dongi
+		Yangchuanosaurus_shangyouensis
+		Allosaurus_fragilis
+		Acrocanthosaurus_atokensis
+		Carcharodontosaurus_saharicus
+		Guanlong_wucaii
+		Dilong_paradoxus
+		Gorgosaurus_libratus
+		Teratophoneus_curriei
+		Daspletosaurus_torosus
+		Tarbosaurus_bataar
+		Tyrannosaurus_rex
+		Garudimimus_brevipes
+		Gallimimus_bullatus
+		Compsognathus_longipes
+		Haplocheirus_sollers
+		Shuvuuia_deserti
+		Incisivosaurus_gauthieri
+		Citipati_osmolskae
+		Nemegtomaia_barsboldi
+		Erlikosaurus_andrewsi
+		Sinornithosaurus_millenii
+		Dromaeosaurus_albertensis
+		Bambiraptor_feinbergorum
+		Tsaagan_mangas
+		Velociraptor_mongoliensis
+		Deinonychus_antirrhopus
+		Archaeopteryx_lithographica
+	;
+END;
+BEGIN TREES;
+	TRANSLATE
+		1	Lesothosaurus_diagnosticus,
+		2	Plateosaurus_engelhardti,
+		3	Herrerasaurus_ischigualastensis,
+		4	Eoraptor_lunensis,
+		5	Coelophysis_bauri,
+		6	Coelophysis_rhodesiensis,
+		7	Zupaysaurus_rougieri,
+		8	Ceratosaurus_nasicornis,
+		9	Majungasaurus_crenatissimus,
+		10	Carnotaurus_sastrei,
+		11	Monolophosaurus_jiangi,
+		12	Spinosaurus_aegyptiacus,
+		13	Baryonyx_walkeri,
+		14	Sinraptor_dongi,
+		15	Yangchuanosaurus_shangyouensis,
+		16	Allosaurus_fragilis,
+		17	Acrocanthosaurus_atokensis,
+		18	Carcharodontosaurus_saharicus,
+		19	Guanlong_wucaii,
+		20	Dilong_paradoxus,
+		21	Gorgosaurus_libratus,
+		22	Teratophoneus_curriei,
+		23	Daspletosaurus_torosus,
+		24	Tarbosaurus_bataar,
+		25	Tyrannosaurus_rex,
+		26	Garudimimus_brevipes,
+		27	Gallimimus_bullatus,
+		28	Compsognathus_longipes,
+		29	Haplocheirus_sollers,
+		30	Shuvuuia_deserti,
+		31	Incisivosaurus_gauthieri,
+		32	Citipati_osmolskae,
+		33	Nemegtomaia_barsboldi,
+		34	Erlikosaurus_andrewsi,
+		35	Sinornithosaurus_millenii,
+		36	Dromaeosaurus_albertensis,
+		37	Bambiraptor_feinbergorum,
+		38	Tsaagan_mangas,
+		39	Velociraptor_mongoliensis,
+		40	Deinonychus_antirrhopus,
+		41	Archaeopteryx_lithographica
+	;
+	TREE * UNTITLED = [&R] (((((((((((((((((((((39:54.65,40:26.25):0.9,38:55.55):0.45,37:56):11.41666667,36:67.41666666):14.08333333,35:40.6):14.34,41:20.24):1.81,((32:47.08333332,33:49.28333334):35.86666667,31:35.4):14.7,34:79.95):0.725,(29:9.6875,30:94.8875):3.4875):0.725,28:23.5):0.725,(26:23.6,27:43.5):58.525):0.725,((((((24:22.34444444,25:22.34444444):4.744444444,23:20.98888889):4.744444444,22:25.73333333):9.488888888,21:35.22222222):58.22777777,20:45.9):5.36,19:13.61):1.74):17.77,(((17:14.9875,18:31.4875):48.6725,16:31.66):9.68,(14:24.96,15:27.56):4.08):4.08):4.08,(12:72.23333333,13:40.18333334):25.76666667):3.4,11:34.4):16.95,((9:71.3,10:65.2):53.12000001,8:45.42):24.43):14.98333333,7:20.33333333):2.866666666,(5:29.25,6:39.75):2.15):4.300001666,4:8.600001667):1.666666662e-06,3:8.600003334):1.666666662e-06,2:35.700005):1.666666691e-06,1:46.20000666);
+END;
